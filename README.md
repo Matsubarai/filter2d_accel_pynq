@@ -2,12 +2,12 @@
 ## Repository Tree
 
 ```
-├── jupyter	// Pynq application
+├── jupyter     // Pynq application
 │   └── filter2d_demo.ipynb
-├── overlay	// Bitstream and hardware handoff
+├── overlay     // Bitstream and hardware handoff
 │   ├── filter2d.bit
 │   └── filter2d.hwh
-└── src	// HLS design and testbench
+└── src         // HLS design and testbench
     ├── dst.txt
     ├── filter2d.cpp
     ├── filter2d.h
