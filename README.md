@@ -18,7 +18,7 @@
     
 ## filter2d_accel_pynq
 
-An HLS implementation of 2D convolution algorithm for custom 3\*3 kernel and images smaller than 128\*128, no padding, running in 150MHz.
+A HLS implementation of 2D convolution algorithm for custom 3\*3 kernel and images smaller than 128\*128, no padding, running in 150MHz.
 
 Some results: 
 
