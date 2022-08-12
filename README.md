@@ -18,7 +18,11 @@
     
 ## filter2d_accel_pynq
 
-A HLS implementation of 2D convolution algorithm for custom 3\*3 kernel and images smaller than 128\*128, no padding, running 150MHz in PYNQ-Z2.
+A HLS implementation of 2D convolution algorithm for custom 3\*3 kernel and images smaller than 128\*128, no padding.
+
+- Platform: PYNQ-Z2, Filter2D IP running in 150MHz.
+
+- Python requirements: opencv-python, matplotlib, plotly, pynq
 
 Demo(硬件自定义二维卷积IP核实现图片浮雕效果): [Here](./jupyter/filter2d_demo.ipynb)
 
