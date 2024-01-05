@@ -20,6 +20,8 @@
 
 A HLS implementation of 2D convolution algorithm for custom 3\*3 kernel and images smaller than 128\*128, no padding.
 
+**This project was presented at Xilinx Winter Camp 2022.**
+
 - Platform: PYNQ-Z2, Filter2D IP running in 150MHz.
 
 - Python requirements: opencv-python, matplotlib, plotly, pynq
